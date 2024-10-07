@@ -877,6 +877,8 @@ footer .lang:hover {
   .subheader .subheader_btn {
     bottom: 4%;
     left: 25%;
+    -webkit-transform: scale(90%) translateX(-30%);
+            transform: scale(90%) translateX(-30%);
   }
   .great img {
     left: 50%;
